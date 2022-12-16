@@ -1,7 +1,7 @@
 # Snake-Game
-Simple Snake Game in Python
+Simple snake game in python
 
-*This is simple Snake game implemented in python. There are 4 .py files in the file. These are respectively;*  
+This is simple snake game implemented in python. There are 4 .py files in the file. These are respectively;  
 
 **food.py:** It allows us to create a small blue bait in a random position on the game screen.    
 
@@ -13,6 +13,6 @@ Simple Snake Game in Python
 
 **score.txt:** The value of our highest score is written in it. This file is read and printed to the screen.  
 
-*The snake created in the middle of the screen starts to move. We move this snake with our controls. It starts to grow every time it eats the bait. If the snake hits the sides or itself, it's game over.*
+The snake created in the middle of the screen starts to move. We move this snake with our controls. It starts to grow every time it eats the bait. If the snake hits the sides or itself, it's game over.
 
 ![snake_game](https://github.com/efecnblt/Basics-Games-with-Python/blob/main/Snake%20Game/snake_game.gif?raw=true)
