@@ -16,3 +16,7 @@ This is simple snake game implemented in python. There are 4 .py files in the fi
 The snake created in the middle of the screen starts to move. We move this snake with our controls. It starts to grow every time it eats the bait. If the snake hits the sides or itself, it's game over.
 
 ![snake_game](https://github.com/efecnblt/Basics-Games-with-Python/blob/main/Snake%20Game/snake_game.gif?raw=true)
+
+## Geri Bildirim
+
+If you have any feedback, please contact me at e.canbolatlnx@gmail.com
