@@ -1,7 +1,7 @@
 # Snake-Game
 Simple snake game in python
 
-This is simple snake game implemented in python. There are 4 .py files in the file. These are respectively;  
+This is simple snake game implemented in python. There are 4 .py files in the project. These are respectively;  
 
 **food.py:** It allows us to create a small blue bait in a random position on the game screen.    
 
